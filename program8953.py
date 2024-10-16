@@ -1,2 +1,2 @@
-a = "EXAM IS VERY HARD."
+a = "TODAY MY WHOLE DAY WENT VERY HECTIC."
 print(a)
